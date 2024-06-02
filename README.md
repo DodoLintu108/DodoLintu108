@@ -1,22 +1,22 @@
 # <DodoLintuTTV> / README.md
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<dodolintu108>&layout=compact&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<dodolintu108>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<dodolintu108&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Total Contributions
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=dodolintu108>&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ## Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=<dodolintu108>&theme=radical)](https://git.io/streak-stats)
 
 ## Longest Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=<dodolintu108>&theme=radical)](https://git.io/streak-stats)
 
 ## Social Media
 [![All Repos](https://img.shields.io/badge/-All%20Repos-blue)](https://github.com/<dodolintu108>?tab=repositories)
