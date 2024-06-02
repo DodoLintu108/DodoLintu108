@@ -9,11 +9,8 @@
 ## Total Contributions
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=DodoLintu108&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-## Current Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=DodoLintu108&theme=radical)](https://git.io/streak-stats)
 
-## Longest Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=DodoLintu108&theme=radical)](https://git.io/streak-stats)
 
 ## Social Media
 [![All Repos](https://img.shields.io/badge/-All%20Repos-blue)](https://github.com/<dodolintu108>?tab=repositories)
